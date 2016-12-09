@@ -1,7 +1,7 @@
 package JiSuan;
 
 import java.util.Scanner;
-
+ 
 public class Shui {
 
 	public static void main(String[] args) {
