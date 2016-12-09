@@ -29,7 +29,7 @@ public class Shui {
 		{
 			System.out.println("所需要缴纳的税费为："+((salary-9000)*0.25+1500*0.03+3000*0.1+4500*0.2));
 			 
-		}
+		} 
 		
 		
 		if(salary>35000&&salary<=55000)
